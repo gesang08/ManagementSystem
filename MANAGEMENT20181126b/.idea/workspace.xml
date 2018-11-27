@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f9b6833-2af0-4041-9784-a2f14b2b87d2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180907d$management.coverage" NAME="management Coverage Results" MODIFIED="1536375562198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180902e$management.coverage" NAME="management Coverage Results" MODIFIED="1535886957548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180920d$management.coverage" NAME="management Coverage Results" MODIFIED="1537444915348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180927a$management.coverage" NAME="management Coverage Results" MODIFIED="1537994274106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180820e$management.coverage" NAME="management Coverage Results" MODIFIED="1534743405291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180818c$management.coverage" NAME="management Coverage Results" MODIFIED="1534602133514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181116b$management.coverage" NAME="management Coverage Results" MODIFIED="1542350167452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180819c$management.coverage" NAME="management Coverage Results" MODIFIED="1534654047662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181115b$management.coverage" NAME="management Coverage Results" MODIFIED="1542247736664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20181018a$management.coverage" NAME="management Coverage Results" MODIFIED="1539798610187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180913b$21212.coverage" NAME="21212 Coverage Results" MODIFIED="1536804274130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180920c$management.coverage" NAME="management Coverage Results" MODIFIED="1537416614595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180829d$management.coverage" NAME="management Coverage Results" MODIFIED="1535547321993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180919b$management.coverage" NAME="management Coverage Results" MODIFIED="1537353134922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180902d$management.coverage" NAME="management Coverage Results" MODIFIED="1535875975314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180918a$management.coverage" NAME="management Coverage Results" MODIFIED="1537256071266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181025b$management.coverage" NAME="management Coverage Results" MODIFIED="1540468570645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181116a$management.coverage" NAME="management Coverage Results" MODIFIED="1542347106801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180927b$management.coverage" NAME="management Coverage Results" MODIFIED="1538044175967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180829c$management.coverage" NAME="management Coverage Results" MODIFIED="1535530300514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180930c$management.coverage" NAME="management Coverage Results" MODIFIED="1538364594652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180906b$management.coverage" NAME="management Coverage Results" MODIFIED="1536287693827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180928a$management.coverage" NAME="management Coverage Results" MODIFIED="1538106550252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20181018b$management.coverage" NAME="management Coverage Results" MODIFIED="1539817852470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180920b$management.coverage" NAME="management Coverage Results" MODIFIED="1537414998964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180917a$management.coverage" NAME="management Coverage Results" MODIFIED="1537148978067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson2_MyAUI$management.coverage" NAME="management Coverage Results" MODIFIED="1534514043926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181126b$management.coverage" NAME="management Coverage Results" MODIFIED="1543212928977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180819b$management.coverage" NAME="management Coverage Results" MODIFIED="1534623202949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180915c$mmm.coverage" NAME="mmm Coverage Results" MODIFIED="1536998969685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180902c$management.coverage" NAME="management Coverage Results" MODIFIED="1535858292880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180922d$management.coverage" NAME="management Coverage Results" MODIFIED="1537610996410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180908b$management.coverage" NAME="management Coverage Results" MODIFIED="1536397203393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181021b$management.coverage" NAME="management Coverage Results" MODIFIED="1540078090889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180913d$mmm.coverage" NAME="mmm Coverage Results" MODIFIED="1536885041144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180903c$management.coverage" NAME="management Coverage Results" MODIFIED="1535965850446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180920a$management.coverage" NAME="management Coverage Results" MODIFIED="1537409952184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181020a$management.coverage" NAME="management Coverage Results" MODIFIED="1540038537306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181018c$management.coverage" NAME="management Coverage Results" MODIFIED="1539834427228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20181001b$management.coverage" NAME="management Coverage Results" MODIFIED="1538404279003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181122b$management.coverage" NAME="management Coverage Results" MODIFIED="1542870731192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180917b$management.coverage" NAME="management Coverage Results" MODIFIED="1537165021521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180908c$management.coverage" NAME="management Coverage Results" MODIFIED="1536547506375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180911a$management.coverage" NAME="management Coverage Results" MODIFIED="1536651216935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180907b$management.coverage" NAME="management Coverage Results" MODIFIED="1536291366746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180926b$management.coverage" NAME="management Coverage Results" MODIFIED="1537935704214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180904d$management.coverage" NAME="management Coverage Results" MODIFIED="1536051160864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181026b$management.coverage" NAME="management Coverage Results" MODIFIED="1540540622782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181026a$path.coverage" NAME="path Coverage Results" MODIFIED="1540522179404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180925a$management.coverage" NAME="management Coverage Results" MODIFIED="1537882166711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180908a$management.coverage" NAME="management Coverage Results" MODIFIED="1536395089534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180926a$management.coverage" NAME="management Coverage Results" MODIFIED="1537932441696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181020b$management.coverage" NAME="management Coverage Results" MODIFIED="1540044272994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180904c$management.coverage" NAME="management Coverage Results" MODIFIED="1536049691009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181026c$management.coverage" NAME="management Coverage Results" MODIFIED="1540542016382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180831c$management.coverage" NAME="management Coverage Results" MODIFIED="1535727600983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180913c$21212.coverage" NAME="21212 Coverage Results" MODIFIED="1536821027837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181019c$management.coverage" NAME="management Coverage Results" MODIFIED="1539956023076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson1_BasicAUI$management.coverage" NAME="management Coverage Results" MODIFIED="1534487771818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180907c$management.coverage" NAME="management Coverage Results" MODIFIED="1536312803543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181021a$management.coverage" NAME="management Coverage Results" MODIFIED="1540059085980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180910d$management.coverage" NAME="management Coverage Results" MODIFIED="1536573693878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20181017a$management.coverage" NAME="management Coverage Results" MODIFIED="1539777459785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181101a$management.coverage" NAME="management Coverage Results" MODIFIED="1541042620804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180925b$management.coverage" NAME="management Coverage Results" MODIFIED="1537929105821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181112$management.coverage" NAME="management Coverage Results" MODIFIED="1542004871591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180918b$management.coverage" NAME="management Coverage Results" MODIFIED="1537341055319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180912a$management.coverage" NAME="management Coverage Results" MODIFIED="1536799241892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180903d$management.coverage" NAME="management Coverage Results" MODIFIED="1536026256116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180930c$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1538363715173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180831b$management.coverage" NAME="management Coverage Results" MODIFIED="1535726970309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180904b$management.coverage" NAME="management Coverage Results" MODIFIED="1536045427266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180818B$management.coverage" NAME="management Coverage Results" MODIFIED="1534591494981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180903a$management.coverage" NAME="management Coverage Results" MODIFIED="1535939871819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180922a$management.coverage" NAME="management Coverage Results" MODIFIED="1537604098864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180821a$management.coverage" NAME="management Coverage Results" MODIFIED="1535437969785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180904a$management.coverage" NAME="management Coverage Results" MODIFIED="1536033684500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180915c$management.coverage" NAME="management Coverage Results" MODIFIED="1537015260716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180916d$management.coverage" NAME="management Coverage Results" MODIFIED="1537101377921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181101b$management.coverage" NAME="management Coverage Results" MODIFIED="1541060383313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181102c$management.coverage" NAME="management Coverage Results" MODIFIED="1541145433027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180831a$management.coverage" NAME="management Coverage Results" MODIFIED="1535683339185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181019b$management.coverage" NAME="management Coverage Results" MODIFIED="1539950359132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180910c$management.coverage" NAME="management Coverage Results" MODIFIED="1536563979836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180914a$management.coverage" NAME="management Coverage Results" MODIFIED="1536968769208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181112b$management.coverage" NAME="management Coverage Results" MODIFIED="1542017997873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180903b$management.coverage" NAME="management Coverage Results" MODIFIED="1535964726335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180910a$management.coverage" NAME="management Coverage Results" MODIFIED="1536549573908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181021c$management.coverage" NAME="management Coverage Results" MODIFIED="1540085818146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180830b$management.coverage" NAME="management Coverage Results" MODIFIED="1535616291325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180916c$management.coverage" NAME="management Coverage Results" MODIFIED="1537086099090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180904e$management.coverage" NAME="management Coverage Results" MODIFIED="1536142771773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180921a$management.coverage" NAME="management Coverage Results" MODIFIED="1537525726345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180926c$management.coverage" NAME="management Coverage Results" MODIFIED="1537962723937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181102b$management.coverage" NAME="management Coverage Results" MODIFIED="1541141985984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180924a$management.coverage" NAME="management Coverage Results" MODIFIED="1537762671245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180818A$management.coverage" NAME="management Coverage Results" MODIFIED="1534589338885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181019a$management.coverage" NAME="management Coverage Results" MODIFIED="1539936866382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180820a$management.coverage" NAME="management Coverage Results" MODIFIED="1534698635265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20181001a$management.coverage" NAME="management Coverage Results" MODIFIED="1538380725603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180910b$management.coverage" NAME="management Coverage Results" MODIFIED="1536551015298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181026a$management.coverage" NAME="management Coverage Results" MODIFIED="1540523291279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180830a$management.coverage" NAME="management Coverage Results" MODIFIED="1535599766001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180817C$management.coverage" NAME="management Coverage Results" MODIFIED="1534586927022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180913b$management.coverage" NAME="management Coverage Results" MODIFIED="1536806649039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181101c$management.coverage" NAME="management Coverage Results" MODIFIED="1541128620135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180930b$management.coverage" NAME="management Coverage Results" MODIFIED="1538296490815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181116e$management.coverage" NAME="management Coverage Results" MODIFIED="1542371512679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181016a$management.coverage" NAME="management Coverage Results" MODIFIED="1539668454524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180913d$management.coverage" NAME="management Coverage Results" MODIFIED="1536844359822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180907a$management.coverage" NAME="management Coverage Results" MODIFIED="1536288610867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180902b$management.coverage" NAME="management Coverage Results" MODIFIED="1535855037329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181103a$management.coverage" NAME="management Coverage Results" MODIFIED="1541227100273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180901a$management.coverage" NAME="management Coverage Results" MODIFIED="1535800494683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180916b$management.coverage" NAME="management Coverage Results" MODIFIED="1537071443339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180829b$management.coverage" NAME="management Coverage Results" MODIFIED="1535473767289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180828a$management.coverage" NAME="management Coverage Results" MODIFIED="1535461196779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180916a$management.coverage" NAME="management Coverage Results" MODIFIED="1537061394469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180820b$management.coverage" NAME="management Coverage Results" MODIFIED="1534699222181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180829a$management.coverage" NAME="management Coverage Results" MODIFIED="1535464649346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180913c$management.coverage" NAME="management Coverage Results" MODIFIED="1536829126923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180906a$management.coverage" NAME="management Coverage Results" MODIFIED="1536214102645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181126a$management.coverage" NAME="management Coverage Results" MODIFIED="1543199012515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181025a$management.coverage" NAME="management Coverage Results" MODIFIED="1540457592396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180930a$management.coverage" NAME="management Coverage Results" MODIFIED="1538271015567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181030a$management.coverage" NAME="management Coverage Results" MODIFIED="1540880962551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181014d$management.coverage" NAME="management Coverage Results" MODIFIED="1539618280962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181031b$management.coverage" NAME="management Coverage Results" MODIFIED="1541041213441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20181018c$management.coverage" NAME="management Coverage Results" MODIFIED="1539831473051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180915b$management.coverage" NAME="management Coverage Results" MODIFIED="1536971677225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181031a$management.coverage" NAME="management Coverage Results" MODIFIED="1541040072396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181123d$management.coverage" NAME="management Coverage Results" MODIFIED="1542961483244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180820d$management.coverage" NAME="management Coverage Results" MODIFIED="1534725317300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180920e$management.coverage" NAME="management Coverage Results" MODIFIED="1537448324939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180929b$management.coverage" NAME="management Coverage Results" MODIFIED="1538230843997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180902a$management.coverage" NAME="management Coverage Results" MODIFIED="1535853016054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180922b$management.coverage" NAME="management Coverage Results" MODIFIED="1537606569238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180905a$management.coverage" NAME="management Coverage Results" MODIFIED="1536142911105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180929a$management.coverage" NAME="management Coverage Results" MODIFIED="1538206752238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181030b$management.coverage" NAME="management Coverage Results" MODIFIED="1540900110171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180910d$management.coverage" NAME="management Coverage Results" MODIFIED="1536565313365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180901b$management.coverage" NAME="management Coverage Results" MODIFIED="1535808856059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20180917d$management.coverage" NAME="management Coverage Results" MODIFIED="1537194361641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MANAGEMENT20181102d$management.coverage" NAME="management Coverage Results" MODIFIED="1541151467494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZX_MANAGEMENT20180820c$management.coverage" NAME="management Coverage Results" MODIFIED="1534723918061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="YLP_Pane.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YLP_Pane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1958">
+              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+              <folding>
+                <marker date="1543199012468" expanded="true" signature="4686:4748" ph="select `Inde... info_element_type" />
+                <marker date="1543199012468" expanded="true" signature="4958:5025" ph="select `stat... info_state_online" />
+                <marker date="1543199012468" expanded="true" signature="5316:5392" ph="select `Base... info_base_material_charge" />
+                <marker date="1543199012468" expanded="true" signature="11480:11593" ph="select `Cust... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="13736:13931" ph="select `Door... order_part_online" />
+                <marker date="1543199012468" expanded="true" signature="14140:14337" ph="select `Door... order_part_complete" />
+                <marker date="1543199012468" expanded="true" signature="21588:21705" ph="select `Sec_... order_section_online" />
+                <marker date="1543199012468" expanded="true" signature="21938:22057" ph="select `Sec_... order_section_complete" />
+                <marker date="1543199012468" expanded="true" signature="42739:42811" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="46416:46495" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="50156:50230" ph="SELECT `Cont... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="59781:59858" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="60081:60165" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="60353:60418" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="60597:60718" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="60964:61092" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="61274:61377" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="61623:61701" ph="select `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="62700:62765" ph="select `Sec_... order_section_online" />
+                <marker date="1543199012468" expanded="true" signature="63289:63350" ph="select `Part... order_part_online" />
+                <marker date="1543199012468" expanded="true" signature="63896:63956" ph="select `Id` order_element_online" />
+                <marker date="1543199012468" expanded="true" signature="65497:65639" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="66117:66253" ph="select `Sec_... order_section_online" />
+                <marker date="1543199012468" expanded="true" signature="66707:66926" ph="select `Part... order_part_online" />
+                <marker date="1543199012468" expanded="true" signature="67377:67494" ph="select `Door... order_part_online" />
+                <marker date="1543199012468" expanded="true" signature="67648:67839" ph="select `Id`,... order_element_online" />
+                <marker date="1543199012468" expanded="true" signature="84679:84762" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="88403:88493" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="92190:92266" ph="SELECT `Cont... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="102157:102236" ph="select `Orde... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="102459:102545" ph="select `Orde... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="102733:102800" ph="select `Orde... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="102979:103102" ph="select `Orde... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="103348:103478" ph="select `Orde... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="103660:103765" ph="select `Orde... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="104011:104089" ph="select `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="105088:105155" ph="select `Sec_... order_section_complete" />
+                <marker date="1543199012468" expanded="true" signature="105679:105742" ph="select `Part... order_part_complete" />
+                <marker date="1543199012468" expanded="true" signature="106288:106350" ph="select `Id` order_element_complete" />
+                <marker date="1543199012468" expanded="true" signature="107852:107996" ph="select `Orde... order_order_complete" />
+                <marker date="1543199012468" expanded="true" signature="108112:108227" ph="select `Sec_... order_section_complete" />
+                <marker date="1543199012468" expanded="true" signature="108653:108874" ph="select `Part... order_part_complete" />
+                <marker date="1543199012468" expanded="true" signature="109293:109412" ph="select `Door... order_part_complete" />
+                <marker date="1543199012468" expanded="true" signature="109554:109747" ph="select `Id`,... order_element_complete" />
+                <marker date="1543199012468" expanded="true" signature="131942:131993" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="132104:132193" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="132736:132801" ph="select `Sec_... order_section_online" />
+                <marker date="1543199012468" expanded="true" signature="133325:133386" ph="select `Part... order_part_online" />
+                <marker date="1543199012468" expanded="true" signature="133932:133992" ph="select `Id` order_element_online" />
+                <marker date="1543199012468" expanded="true" signature="135521:135663" ph="select `Orde... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="135788:135901" ph="select `Sec_... order_section_online" />
+                <marker date="1543199012468" expanded="true" signature="136356:136575" ph="select `Part... order_part_online" />
+                <marker date="1543199012468" expanded="true" signature="137026:137143" ph="select `Door... order_part_online" />
+                <marker date="1543199012468" expanded="true" signature="137547:137661" ph="select `Boar... order_element_online" />
+                <marker date="1543199012468" expanded="true" signature="162566:162670" ph="select `Name... info_staff_new" />
+                <marker date="1543199012468" expanded="true" signature="162838:162962" ph="select `Name... info_staff_new" />
+                <marker date="1543199012468" expanded="true" signature="168709:168781" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="172578:172657" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="176318:176392" ph="SELECT `Cont... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="181622:181674" ph="select `Posi... info_staff_new" />
+                <marker date="1543199012468" expanded="true" signature="191136:191297" ph="select `Id`,... order_element_report_error" />
+                <marker date="1543199012468" expanded="true" signature="193374:193516" ph="select `Id`,... order_element_report_error" />
+                <marker date="1543199012468" expanded="true" signature="194092:194200" ph="select `faul... work_staff_workload_manual_area" />
+                <marker date="1543199012468" expanded="true" signature="194373:194452" ph="select `Boar... order_element_online" />
+                <marker date="1543199012468" expanded="true" signature="194745:194880" ph="insert into `work_staff_workload_manual_area`... " />
+                <marker date="1543199012468" expanded="true" signature="195369:195485" ph="update `work... " />
+                <marker date="1543199012468" expanded="true" signature="195624:195692" ph="update `orde... " />
+                <marker date="1543199012468" expanded="true" signature="195820:195888" ph="update `orde... " />
+                <marker date="1543199012468" expanded="true" signature="197336:197623" ph="select `Id`,... order_element_report_error" />
+                <marker date="1543199012468" expanded="true" signature="197829:198162" ph="select `Id`,... order_element_report_error" />
+                <marker date="1543199012468" expanded="true" signature="204148:204220" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="208016:208095" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="211756:211830" ph="SELECT `Cont... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="225479:225527" ph="select `Oper... finance_log" />
+                <marker date="1543199012468" expanded="true" signature="226650:226766" ph="select `Paym... finance_log" />
+                <marker date="1543199012468" expanded="true" signature="237528:237600" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="241396:241475" ph="SELECT `Cont... order_contract_internal" />
+                <marker date="1543199012468" expanded="true" signature="245136:245210" ph="SELECT `Cont... order_order_online" />
+                <marker date="1543199012468" expanded="true" signature="265465:265580" ph="update `info... " />
+                <marker date="1543199012468" expanded="true" signature="266332:266427" ph="UPDATE `info... " />
+                <marker date="1543199012468" expanded="true" signature="266855:266953" ph="select `tran... info_transport_company__information" />
+                <marker date="1543199012468" expanded="true" signature="268706:268832" ph="select `tran... info_transport_company__information" />
+                <marker date="1543199012468" expanded="true" signature="275895:276005" ph="select `tran... info_transport_company__information" />
+                <marker date="1543199012468" expanded="true" signature="276237:276327" ph="insert into `info_transport_company__information`... " />
+                <marker date="1543199012468" expanded="true" signature="287996:288084" ph="update `orde... " />
+                <marker date="1543199012468" expanded="true" signature="288604:288684" ph="select `comp... order_company_info" />
+                <marker date="1543199012468" expanded="true" signature="290441:290539" ph="select `comp... order_company_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FYF_Pane.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FYF_Pane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21230">
+              <caret line="965" column="10" lean-forward="false" selection-start-line="965" selection-start-column="10" selection-end-line="965" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpeedMeter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpeedMeter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ID_DEFINE.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ID_DEFINE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="593" column="25" lean-forward="false" selection-start-line="593" selection-start-column="25" selection-end-line="593" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GQ_Layout_2D.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GQ_Layout_2D.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5258">
+              <caret line="239" column="22" lean-forward="false" selection-start-line="239" selection-start-column="22" selection-end-line="239" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZX_Pane.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZX_Pane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20570">
+              <caret line="953" column="21" lean-forward="false" selection-start-line="953" selection-start-column="21" selection-end-line="953" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AUI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6754">
+              <caret line="739" column="55" lean-forward="false" selection-start-line="739" selection-start-column="55" selection-end-line="739" selection-end-column="55" />
+              <folding>
+                <element signature="e#1673#2788#0" expanded="false" />
+                <element signature="e#2789#2817#0" expanded="false" />
+                <element signature="e#2919#3834#0" expanded="false" />
+                <element signature="e#3946#4857#0" expanded="false" />
+                <element signature="e#4963#5298#0" expanded="false" />
+                <element signature="e#5413#5748#0" expanded="false" />
+                <element signature="e#5854#6265#0" expanded="false" />
+                <element signature="e#14688#15011#0" expanded="false" />
+                <element signature="e#15240#17230#0" expanded="false" />
+                <element signature="e#16985#17009#0" expanded="false" />
+                <element signature="e#17152#17197#0" expanded="false" />
+                <element signature="e#17268#18358#0" expanded="false" />
+                <element signature="e#18393#23519#0" expanded="false" />
+                <element signature="e#23554#24606#0" expanded="false" />
+                <element signature="e#24639#24656#0" expanded="false" />
+                <element signature="e#24711#24804#0" expanded="false" />
+                <element signature="e#24843#24920#0" expanded="false" />
+                <element signature="e#24960#25375#0" expanded="false" />
+                <element signature="e#29157#29766#0" expanded="false" />
+                <element signature="e#29823#33729#0" expanded="false" />
+                <element signature="e#33766#35838#0" expanded="false" />
+                <element signature="e#35886#36828#0" expanded="false" />
+                <element signature="e#36873#36954#0" expanded="false" />
+                <element signature="e#37004#37016#0" expanded="false" />
+                <element signature="e#37055#37067#0" expanded="false" />
+                <element signature="e#37112#37406#0" expanded="false" />
+                <element signature="e#37797#38059#0" expanded="false" />
+                <element signature="e#38097#38113#0" expanded="false" />
+                <marker date="1543208822809" expanded="true" signature="16468:16544" ph="select `Job_... info_staff_new" />
+                <marker date="1543208822809" expanded="true" signature="32360:32775" ph="UPDATE `info... " />
+                <marker date="1543208822809" expanded="true" signature="35145:35498" ph="select `sche... info_staff_new" />
+                <marker date="1543208822809" expanded="true" signature="60322:60394" ph="SELECT `sche... info_staff_new" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="31" column="158" lean-forward="false" selection-start-line="31" selection-start-column="158" selection-end-line="31" selection-end-column="158" />
+              <folding>
+                <element signature="e#192#405#0" expanded="false" />
+                <element signature="e#474#902#0" expanded="false" />
+                <element signature="e#939#1145#0" expanded="false" />
+                <element signature="e#939#999#0" expanded="false" />
+                <element signature="e#1721#1882#0" expanded="false" />
+                <element signature="e#1899#1954#0" expanded="false" />
+                <element signature="e#1986#2014#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>On_Check_Detail</find>
+      <find>self.scheduling_panel</find>
+      <find>电话号</find>
+      <find />
+      <find>self.zx_delivery_panel</find>
+      <find>MyRefresh</find>
+      <find>PIL</find>
+      <find>Priority_id</find>
+      <find>info_transport_company__information</find>
+      <find>info_transport_company_information</find>
+      <find>Return_</find>
+      <find>self.led_vehicle_ctrl_panel</find>
+      <find>self.Sorting_Vehicle_Grid</find>
+      <find>Sorting_Vehicle_Grid.timer</find>
+      <find>Sorting_Vehicle_Grid</find>
+      <find>OnTodayQuery</find>
+      <find>Get_All_Store</find>
+      <find>ID_Send_Wechat_Msg</find>
+      <find>ID_LogIn</find>
+      <find>ID_Print_Bar_Code_Information</find>
+      <find>self.product_storage_ctrl_panel</find>
+      <find>self.authority_ctrl_grid</find>
+      <find>Authority__Dialog</find>
+      <find>102</find>
+      <find>self.ylp_Part_ID_Inform_Panel</find>
+      <find>Part_ID_Inform_Panel</find>
+      <find>sec_inform</find>
+      <find>oper</find>
+      <find>112</find>
+      <find>board_hardware_storage_ctrl_panel</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>inform_unreception</replace>
+      <replace>inform1</replace>
+      <replace>inform2</replace>
+      <replace>inform3</replace>
+      <replace>inform4</replace>
+      <replace>inform5</replace>
+      <replace>inform6</replace>
+      <replace>inform_error</replace>
+      <replace>HANHAI-SERVER</replace>
+      <replace>hanhai</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ProgressGauge.py" />
+        <option value="$PROJECT_DIR$/About.py" />
+        <option value="$PROJECT_DIR$/MyFoldPanelBar.py" />
+        <option value="$PROJECT_DIR$/21212.py" />
+        <option value="$PROJECT_DIR$/mmm.py" />
+        <option value="$PROJECT_DIR$/GQ_Layout_2D.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/hcj_code_domon.py" />
+        <option value="$PROJECT_DIR$/ZX_Pane0917.py" />
+        <option value="$PROJECT_DIR$/StatusBar.py" />
+        <option value="$PROJECT_DIR$/scheduling.py" />
+        <option value="$PROJECT_DIR$/path.py" />
+        <option value="$PROJECT_DIR$/SpeedMeter.py" />
+        <option value="$PROJECT_DIR$/ZX_Pane.py" />
+        <option value="$PROJECT_DIR$/ID_DEFINE.py" />
+        <option value="$PROJECT_DIR$/YLP_Pane.py" />
+        <option value="$PROJECT_DIR$/AUI.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/FYF_Pane.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MANAGEMENT20181123b" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../ZX_MANAGEMENT20181006b/ZX_Pane.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\python_workspace\manage\HANHAI\MANAGEMENT20180817C" />
+      <recent name="H:\python_workspace\lecture\Chapter5_AUI\lesson2_MyAUI" />
+      <recent name="H:\python_workspace\lecture\Chapter5_AUI\lesson1_BasicAUI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\python_workspace\manage\HANHAI\MANAGEMENT20180817C" />
+      <recent name="H:\python_workspace\manage\HANHAI\MANAGEMENT20180817C\bitmaps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.management">
+    <configuration default="false" name="hcj_code_domon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hcj_code_domon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mmm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="lesson1_BasicAUI" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="management" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python_install\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lesson1_BasicAUI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.management" />
+      <item index="1" class="java.lang.String" itemvalue="Python.hcj_code_domon" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mmm" />
+      <item index="3" class="java.lang.String" itemvalue="Python.path" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.path" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mmm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.hcj_code_domon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f9b6833-2af0-4041-9784-a2f14b2b87d2" name="Default" comment="" />
+      <created>1534486686628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534486686628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_py - 2018.10.01 at 11h 15m 15s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21009976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33050847" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278272" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21009976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/YLP_Pane.py</url>
+          <line>543</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/YLP_Pane.py</url>
+          <line>428</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/YLP_Pane.py</url>
+          <line>437</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="313" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Python27/Lib/site-packages/wx/lib/delayedresult.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/fitz/fitz.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/wx/lib/agw/aui/framemanager.py" />
+    <entry file="file://$PROJECT_DIR$/YLP_Package.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9612">
+          <caret line="360" column="11" lean-forward="false" selection-start-line="360" selection-start-column="10" selection-end-line="360" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/__builtin__.py" />
+    <entry file="file://C:/Python27/Lib/ftplib.py" />
+    <entry file="file://$PROJECT_DIR$/21212.py" />
+    <entry file="file://$PROJECT_DIR$/mmm.py" />
+    <entry file="file://C:/Python27/Lib/urllib2.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/reportlab/platypus/tables.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/reportlab/pdfgen/canvas.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/pyttsx/drivers/sapi5.py" />
+    <entry file="file://$PROJECT_DIR$/ListCtrl.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/reportlab/platypus/flowables.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/wx/_dataview/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/wx/_core/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/wx/_dataview/DataViewTextRenderer.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/itchat/components/login.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/MySQLdb/cursors.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/MySQLdb/connections.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/wx/_core/TextCtrl.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/reportlab/platypus/doctemplate.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/wx/_core/CheckBox.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/PIL/Image.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/barcode/writer.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/barcode/base.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/wmi.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/win32com/__init__.py" />
+    <entry file="file://C:/Python27/Lib/shutil.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/wx/lib/pdfviewer/viewer.py" />
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcj_code_domon.py" />
+    <entry file="file://$PROJECT_DIR$/ZX_Pane0917.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-762174762/wx/_dataview/DataViewCtrl.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/wx/lib/agw/aui/auibook.py" />
+    <entry file="file://$PROJECT_DIR$/StatusBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2183">
+          <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/genericpath.py" />
+    <entry file="file://$PROJECT_DIR$/scheduling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78477">
+          <caret line="2134" column="16" lean-forward="false" selection-start-line="2134" selection-start-column="16" selection-end-line="2134" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/wx/core.py" />
+    <entry file="file://$PROJECT_DIR$/path.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GQ_Layout_2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5258">
+          <caret line="239" column="22" lean-forward="false" selection-start-line="239" selection-start-column="22" selection-end-line="239" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpeedMeter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZX_Pane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20570">
+          <caret line="953" column="21" lean-forward="false" selection-start-line="953" selection-start-column="21" selection-end-line="953" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/encodings/utf_8.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/backends/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/AUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6754">
+          <caret line="739" column="55" lean-forward="false" selection-start-line="739" selection-start-column="55" selection-end-line="739" selection-end-column="55" />
+          <folding>
+            <element signature="e#1673#2788#0" expanded="false" />
+            <element signature="e#2789#2817#0" expanded="false" />
+            <element signature="e#2919#3834#0" expanded="false" />
+            <element signature="e#3946#4857#0" expanded="false" />
+            <element signature="e#4963#5298#0" expanded="false" />
+            <element signature="e#5413#5748#0" expanded="false" />
+            <element signature="e#5854#6265#0" expanded="false" />
+            <element signature="e#14688#15011#0" expanded="false" />
+            <element signature="e#15240#17230#0" expanded="false" />
+            <element signature="e#16985#17009#0" expanded="false" />
+            <element signature="e#17152#17197#0" expanded="false" />
+            <element signature="e#17268#18358#0" expanded="false" />
+            <element signature="e#18393#23519#0" expanded="false" />
+            <element signature="e#23554#24606#0" expanded="false" />
+            <element signature="e#24639#24656#0" expanded="false" />
+            <element signature="e#24711#24804#0" expanded="false" />
+            <element signature="e#24843#24920#0" expanded="false" />
+            <element signature="e#24960#25375#0" expanded="false" />
+            <element signature="e#29157#29766#0" expanded="false" />
+            <element signature="e#29823#33729#0" expanded="false" />
+            <element signature="e#33766#35838#0" expanded="false" />
+            <element signature="e#35886#36828#0" expanded="false" />
+            <element signature="e#36873#36954#0" expanded="false" />
+            <element signature="e#37004#37016#0" expanded="false" />
+            <element signature="e#37055#37067#0" expanded="false" />
+            <element signature="e#37112#37406#0" expanded="false" />
+            <element signature="e#37797#38059#0" expanded="false" />
+            <element signature="e#38097#38113#0" expanded="false" />
+            <marker date="1543208822809" expanded="true" signature="16468:16544" ph="select `Job_... info_staff_new" />
+            <marker date="1543208822809" expanded="true" signature="32360:32775" ph="UPDATE `info... " />
+            <marker date="1543208822809" expanded="true" signature="35145:35498" ph="select `sche... info_staff_new" />
+            <marker date="1543208822809" expanded="true" signature="60322:60394" ph="SELECT `sche... info_staff_new" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="31" column="158" lean-forward="false" selection-start-line="31" selection-start-column="158" selection-end-line="31" selection-end-column="158" />
+          <folding>
+            <element signature="e#192#405#0" expanded="false" />
+            <element signature="e#474#902#0" expanded="false" />
+            <element signature="e#939#1145#0" expanded="false" />
+            <element signature="e#939#999#0" expanded="false" />
+            <element signature="e#1721#1882#0" expanded="false" />
+            <element signature="e#1899#1954#0" expanded="false" />
+            <element signature="e#1986#2014#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YLP_Pane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <marker date="1543199012468" expanded="true" signature="4686:4748" ph="select `Inde... info_element_type" />
+            <marker date="1543199012468" expanded="true" signature="4958:5025" ph="select `stat... info_state_online" />
+            <marker date="1543199012468" expanded="true" signature="5316:5392" ph="select `Base... info_base_material_charge" />
+            <marker date="1543199012468" expanded="true" signature="11480:11593" ph="select `Cust... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="13736:13931" ph="select `Door... order_part_online" />
+            <marker date="1543199012468" expanded="true" signature="14140:14337" ph="select `Door... order_part_complete" />
+            <marker date="1543199012468" expanded="true" signature="21588:21705" ph="select `Sec_... order_section_online" />
+            <marker date="1543199012468" expanded="true" signature="21938:22057" ph="select `Sec_... order_section_complete" />
+            <marker date="1543199012468" expanded="true" signature="42739:42811" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="46416:46495" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="50156:50230" ph="SELECT `Cont... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="59781:59858" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="60081:60165" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="60353:60418" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="60597:60718" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="60964:61092" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="61274:61377" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="61623:61701" ph="select `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="62700:62765" ph="select `Sec_... order_section_online" />
+            <marker date="1543199012468" expanded="true" signature="63289:63350" ph="select `Part... order_part_online" />
+            <marker date="1543199012468" expanded="true" signature="63896:63956" ph="select `Id` order_element_online" />
+            <marker date="1543199012468" expanded="true" signature="65497:65639" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="66117:66253" ph="select `Sec_... order_section_online" />
+            <marker date="1543199012468" expanded="true" signature="66707:66926" ph="select `Part... order_part_online" />
+            <marker date="1543199012468" expanded="true" signature="67377:67494" ph="select `Door... order_part_online" />
+            <marker date="1543199012468" expanded="true" signature="67648:67839" ph="select `Id`,... order_element_online" />
+            <marker date="1543199012468" expanded="true" signature="84679:84762" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="88403:88493" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="92190:92266" ph="SELECT `Cont... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="102157:102236" ph="select `Orde... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="102459:102545" ph="select `Orde... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="102733:102800" ph="select `Orde... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="102979:103102" ph="select `Orde... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="103348:103478" ph="select `Orde... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="103660:103765" ph="select `Orde... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="104011:104089" ph="select `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="105088:105155" ph="select `Sec_... order_section_complete" />
+            <marker date="1543199012468" expanded="true" signature="105679:105742" ph="select `Part... order_part_complete" />
+            <marker date="1543199012468" expanded="true" signature="106288:106350" ph="select `Id` order_element_complete" />
+            <marker date="1543199012468" expanded="true" signature="107852:107996" ph="select `Orde... order_order_complete" />
+            <marker date="1543199012468" expanded="true" signature="108112:108227" ph="select `Sec_... order_section_complete" />
+            <marker date="1543199012468" expanded="true" signature="108653:108874" ph="select `Part... order_part_complete" />
+            <marker date="1543199012468" expanded="true" signature="109293:109412" ph="select `Door... order_part_complete" />
+            <marker date="1543199012468" expanded="true" signature="109554:109747" ph="select `Id`,... order_element_complete" />
+            <marker date="1543199012468" expanded="true" signature="131942:131993" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="132104:132193" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="132736:132801" ph="select `Sec_... order_section_online" />
+            <marker date="1543199012468" expanded="true" signature="133325:133386" ph="select `Part... order_part_online" />
+            <marker date="1543199012468" expanded="true" signature="133932:133992" ph="select `Id` order_element_online" />
+            <marker date="1543199012468" expanded="true" signature="135521:135663" ph="select `Orde... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="135788:135901" ph="select `Sec_... order_section_online" />
+            <marker date="1543199012468" expanded="true" signature="136356:136575" ph="select `Part... order_part_online" />
+            <marker date="1543199012468" expanded="true" signature="137026:137143" ph="select `Door... order_part_online" />
+            <marker date="1543199012468" expanded="true" signature="137547:137661" ph="select `Boar... order_element_online" />
+            <marker date="1543199012468" expanded="true" signature="162566:162670" ph="select `Name... info_staff_new" />
+            <marker date="1543199012468" expanded="true" signature="162838:162962" ph="select `Name... info_staff_new" />
+            <marker date="1543199012468" expanded="true" signature="168709:168781" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="172578:172657" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="176318:176392" ph="SELECT `Cont... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="181622:181674" ph="select `Posi... info_staff_new" />
+            <marker date="1543199012468" expanded="true" signature="191136:191297" ph="select `Id`,... order_element_report_error" />
+            <marker date="1543199012468" expanded="true" signature="193374:193516" ph="select `Id`,... order_element_report_error" />
+            <marker date="1543199012468" expanded="true" signature="194092:194200" ph="select `faul... work_staff_workload_manual_area" />
+            <marker date="1543199012468" expanded="true" signature="194373:194452" ph="select `Boar... order_element_online" />
+            <marker date="1543199012468" expanded="true" signature="194745:194880" ph="insert into `work_staff_workload_manual_area`... " />
+            <marker date="1543199012468" expanded="true" signature="195369:195485" ph="update `work... " />
+            <marker date="1543199012468" expanded="true" signature="195624:195692" ph="update `orde... " />
+            <marker date="1543199012468" expanded="true" signature="195820:195888" ph="update `orde... " />
+            <marker date="1543199012468" expanded="true" signature="197336:197623" ph="select `Id`,... order_element_report_error" />
+            <marker date="1543199012468" expanded="true" signature="197829:198162" ph="select `Id`,... order_element_report_error" />
+            <marker date="1543199012468" expanded="true" signature="204148:204220" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="208016:208095" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="211756:211830" ph="SELECT `Cont... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="225479:225527" ph="select `Oper... finance_log" />
+            <marker date="1543199012468" expanded="true" signature="226650:226766" ph="select `Paym... finance_log" />
+            <marker date="1543199012468" expanded="true" signature="237528:237600" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="241396:241475" ph="SELECT `Cont... order_contract_internal" />
+            <marker date="1543199012468" expanded="true" signature="245136:245210" ph="SELECT `Cont... order_order_online" />
+            <marker date="1543199012468" expanded="true" signature="265465:265580" ph="update `info... " />
+            <marker date="1543199012468" expanded="true" signature="266332:266427" ph="UPDATE `info... " />
+            <marker date="1543199012468" expanded="true" signature="266855:266953" ph="select `tran... info_transport_company__information" />
+            <marker date="1543199012468" expanded="true" signature="268706:268832" ph="select `tran... info_transport_company__information" />
+            <marker date="1543199012468" expanded="true" signature="275895:276005" ph="select `tran... info_transport_company__information" />
+            <marker date="1543199012468" expanded="true" signature="276237:276327" ph="insert into `info_transport_company__information`... " />
+            <marker date="1543199012468" expanded="true" signature="287996:288084" ph="update `orde... " />
+            <marker date="1543199012468" expanded="true" signature="288604:288684" ph="select `comp... order_company_info" />
+            <marker date="1543199012468" expanded="true" signature="290441:290539" ph="select `comp... order_company_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FYF_Pane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21230">
+          <caret line="965" column="10" lean-forward="false" selection-start-line="965" selection-start-column="10" selection-end-line="965" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ID_DEFINE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="593" column="25" lean-forward="false" selection-start-line="593" selection-start-column="25" selection-end-line="593" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
